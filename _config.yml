@@ -9,7 +9,7 @@ assets:
   libs: assets/libs
   owner: assets/owner
 logo: logo.png
-discus_shortname: MADness
+discus_shortname: MyDarkPoets
 email: mad@ness.com
 url: "https://texasn.github.io"
 search: true
@@ -24,7 +24,7 @@ wpm: 200
 
 # Owner/author information
 owner:
-  name:   MADness
+  name:   Texas Nelson
   avatar: avatar.jpg
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    MAD for Jekyll
