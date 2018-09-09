@@ -1,5 +1,5 @@
 # Site settings
-title: "MADness"
+title: "My Dark Poets"
 description: A Template for Jekyll
 
 # Files
@@ -11,7 +11,7 @@ assets:
 logo: logo.png
 discus_shortname: MADness
 email: mad@ness.com
-url: "http://texasn.github.io"
+url: "https://texasn.github.io"
 search: true
 share: true
 comments: true
