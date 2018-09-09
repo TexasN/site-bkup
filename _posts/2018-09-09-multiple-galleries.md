@@ -2,8 +2,8 @@
 layout:     post
 title:      "Multiple Galleries"
 subtitle:   "A post with multiple galleries arranged with ISOTOPE"
-date:       2015-11-23 12:00:00
-author:     "MADness"
+date:       2018-09-09 04:30:00
+author:     "Texas Nelson"
 header-img: "assets/owner/blog/header/post-bg-01.jpg"
 thumbnail: /assets/owner/blog/thumbs/thumb01.png
 tags: [tag-name-one, tag-name-two]
