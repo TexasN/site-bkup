@@ -9,11 +9,6 @@ thumbnail: /assets/owner/blog/thumbs/thumb02.png
 tags: [tag-name-one, tag-name-two]
 categories: [cat01, cat02]
 ---
-<<<<<<< HEAD
-
-=======
-Within thy heart,
->>>>>>> fa9c932c965f7c8cf8f4bb89952e45502c5e5be0
 
 Within thy heart, There lies a creature,
 
