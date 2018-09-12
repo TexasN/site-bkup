@@ -9,7 +9,6 @@ thumbnail: /assets/owner/blog/thumbs/thumb02.png
 tags: [tag-name-one, tag-name-two]
 categories: [cat01, cat02]
 ---
-
 Within thy heart,
 
 There lies a creature,
