@@ -18,7 +18,6 @@ Within thy soul, There lies a darkness,
 
 That one's eyes cannot perceive.
 
-
 I'm done.
 
 Thanks for reading MyDarkPoets.
