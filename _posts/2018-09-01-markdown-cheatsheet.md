@@ -2,7 +2,7 @@
 layout: post
 title: Markdown Cheatsheet
 subtitle: This is Markdown Cheatsheet for MAD4Jekyll
-date:       2018-09-09 04:31:00
+date:       2018-09-01 04:31:00
 author:     "Texas Nelson"
 header-img: "assets/owner/blog/header/post-bg-02.jpg"
 thumbnail: /assets/owner/blog/thumbs/thumb02.png
