@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My fourth Post
-subtitle: One s Eyes
+subtitle: "One's Eyes"
 date: 2018-09-12 05:45:00
 author: "Texas Nelson"
 header-img: "assets/owner/blog/header/post-bg-02.jpg"
@@ -22,5 +22,3 @@ That one's eyes cannot perceive.
 I'm done.
 
 Thanks for reading MyDarkPoets.
-
-
