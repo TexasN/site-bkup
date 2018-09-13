@@ -1,9 +1,9 @@
 ---
 layout: post
-title: My fourth Post
-subtitle: "One's Eyes"
-date: 2018-09-12 05:45:00
-author: "Texas Nelson"
+title: Markdown Cheatsheet
+subtitle: This is Markdown Cheatsheet for MAD4Jekyll
+date:       2018-09-12 04:31:00
+author:     "Texas Nelson"
 header-img: "assets/owner/blog/header/post-bg-02.jpg"
 thumbnail: /assets/owner/blog/thumbs/thumb02.png
 tags: [tag-name-one, tag-name-two]
