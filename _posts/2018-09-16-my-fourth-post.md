@@ -1,8 +1,8 @@
 ---
 layout: post
-title: My First Post Ever
+title: My Fourth Post Ever
 subtitle: This is my first poetry post
-date:       2018-09-09 08:00:00
+date:       2018-09-16 05:00:00
 author:     "Texas Nelson"
 header-img: "assets/owner/blog/header/post-bg-02.jpg"
 thumbnail: /assets/owner/blog/thumbs/thumb02.png
