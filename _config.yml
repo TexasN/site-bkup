@@ -79,7 +79,7 @@ sass:
 #2018-09-16 Paginate was originally 5 and then I changed it to 15, and now it is zero to test the number of blogs.
 paginate: 2
 paginate_path: "/writing/page:num/"
-# permalink: "/writing/:title/"
+permalink: "/writing/:title/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 slugify: "pretty"
 
