@@ -2,7 +2,7 @@
 layout: post
 title: My third Post
 subtitle: Thy Darkness
-date:       2018-09-11 10:00:00
+date:       2018-09-09 10:00:00
 author:     "Texas Nelson"
 header-img: "assets/owner/blog/header/post-bg-02.jpg"
 thumbnail: /assets/owner/blog/thumbs/thumb02.png
