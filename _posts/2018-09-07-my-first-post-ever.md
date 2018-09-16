@@ -9,7 +9,6 @@ thumbnail: /assets/owner/blog/thumbs/thumb02.png
 tags: [tag-name-one, tag-name-two]
 categories: [cat01, cat02]
 ---
-
 I've laid thy past to rest, 
 
 For it was burdened with such regret, 
