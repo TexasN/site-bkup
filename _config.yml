@@ -75,6 +75,8 @@ kramdown:
     input:          GFM
 sass:
     style:          :compressed
+    
+#2018-09-16 Paginate was originally 5 and then I changed it to 15, and now it is zero to test the number of blogs.
 paginate:
 paginate_path: "/writing/page:num/"
 permalink: "/writing/:title/"
