@@ -2,7 +2,7 @@
 layout: post
 title: My Sixth Post Ever
 subtitle: This is my first poetry post
-date:       2018-09-13 07:00:00
+date:       2018-09-16 07:00:00
 author:     "Texas Nelson"
 header-img: "assets/owner/blog/header/post-bg-02.jpg"
 thumbnail: /assets/owner/blog/thumbs/thumb02.png
